@@ -1,1 +1,2 @@
-# NetworkScanner
+Network Scanner is a project designed to help you know whether your device is connected or not.
+When it detects a network connection for a certain time, it sends you an email.
