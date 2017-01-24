@@ -5,3 +5,4 @@ When it detects a network connection for a certain time, it sends you an email.
 
 איך מתחילים?
 בקובץ App.config עליך להגדיר את חשבון המייל שישמש את האפליקציה כדי לשלוח הודעות מייל. 
+<h1>Network Scanner <h1>
